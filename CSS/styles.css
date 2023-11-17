@@ -86,6 +86,9 @@ img{
 .header_nosotros{
     background-image: url(/img/header_nosotros.jpg);
 }
+.header_contacto{
+    background-image: url(/img/header_contacto.jpg);
+}
 
 .header__texto{
     text-align: center;
