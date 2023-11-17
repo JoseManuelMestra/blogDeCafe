@@ -53,8 +53,12 @@ h4{
 }
 img{
     max-width: 100%;
-    border-radius: 5rem 0.5rem;
-    box-shadow: 3px 3px 5px var(--grisSombra)
+    border-radius: 4rem 0.5rem;
+    /* box-shadow: 4px 4px 5px var(--grisSombra) */
+    box-shadow: 10px 10px 5px -3px rgba(25,18,18,0.77);
+    -webkit-box-shadow: 10px 10px 5px -3px rgba(25,18,18,0.77);
+    -moz-box-shadow: 10px 10px 5px -3px rgba(25,18,18,0.77);
+
 }
 
 /** Utilidades **/
