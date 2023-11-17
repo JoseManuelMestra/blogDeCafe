@@ -54,7 +54,7 @@ h4{
 img{
     max-width: 100%;
     border-radius: 4rem 0.5rem;
-    box-shadow: 4px 4px 5px var(--grisSombra);
+    box-shadow: 4px 4px 5px 3px var(--grisSombra);
 }
 /** Utilidades **/
 
