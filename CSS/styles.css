@@ -1,7 +1,6 @@
 :root{
     --fuenteHeading: 'PT Sans', sans-serif;
     --fuenteParrafos:'Open Sans' sans-serif;
-
     --primario: #784d3c;
     --gris:#b6b2b2;
     --grisSombra:#615858;
@@ -20,7 +19,7 @@ html{
 }
 body{
     font-family: var(--fuenteParrafos);
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     line-height: 2;
 }
 
