@@ -205,7 +205,7 @@ font-weight: 700;
 
 footer{
     background-color: var(--negro);
-    padding: 1rem 3rem;
+    /* padding: 1rem 3rem; */
     margin: 10rem 0rem;
 
 }
