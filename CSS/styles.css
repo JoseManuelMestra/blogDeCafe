@@ -361,9 +361,14 @@ p{
                     transition: 0.5s ease-in-out all;
                     font-weight: 700;
             }
-            .nav_items a{ text-align: center;
-                    padding-top: 5rem;
+            .nav_items a{ text-align: center;}
             }
+
+
+            .nav_items a:first-child {
+                padding-top: 15rem;
+              }
+              
             .nav_toggle{
                     display: flex !important;
                     flex-direction: column;                
