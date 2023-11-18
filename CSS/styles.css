@@ -338,7 +338,7 @@ p{
             bottom: 0;
             width: 0;
             height: 2px;
-            background: rgb(77, 5, 5);
+            background: var(--gris);
             transition: all 0.5s;
         }
         .nav_items a:hover::before{
