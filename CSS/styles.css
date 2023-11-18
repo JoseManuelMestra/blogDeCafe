@@ -207,13 +207,13 @@ footer{
     background-color: var(--negro);
     /* padding: 1rem 3rem; */
     margin-top: 5rem;
-    
+
 
 }
 .footer nav.nav-footer{
     display: flex;
     justify-content: space-between;
-    padding-top: 2rem;
+    padding: 2rem 0;
 }
 
 /* Sobre nosotros*/
