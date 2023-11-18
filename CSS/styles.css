@@ -41,6 +41,7 @@ h1{
 
 h2{
     font-size: 4rem;
+    padding-top: 3rem;
 }
 
 h3{
@@ -350,9 +351,9 @@ p{
         @media (max-width: 768px) {
                 .nav_items{
                     position: absolute;
-                    top: 28rem;
+                    top: 10rem;
                     left: 0;
-                    background: rgba(8, 0, 0, 0.815);
+                    background:var(--negro);
                     display: flex;
                     flex-direction: column;
                     width: 100%;
