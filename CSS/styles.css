@@ -293,5 +293,5 @@ p{
     border: solid 1px var(--gris);
 }
 .campo__field--textarea{
-    height: 20rem;
+    height: 16rem;
 }
