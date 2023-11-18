@@ -41,7 +41,6 @@ h1{
 
 h2{
     font-size: 4rem;
-    padding-top: 3rem;
 }
 
 h3{
@@ -110,9 +109,6 @@ img{
 }
 .barra{
     padding-top: 4rem;
-    display: flex;
-    justify-content: space-around;
-    
 }
 .logo{
     color: var(--blanco);
